@@ -12,7 +12,6 @@ const SidebarItem = ({ icon, label }) => (
 export default function Home() {
   return (
     <div className="flex gap-4 m-4">
-      {/* Sidebar */}
       <div className="w-[6%] h-dvh bg-[#202B3B] rounded-[2vw] flex flex-col items-center justify-between py-6">
         <div className="flex flex-col items-center gap-8">
           <SidebarItem
@@ -58,9 +57,8 @@ export default function Home() {
         />
       </div>
 
-      {/* Main */}
       <div className="w-[54%] h-dvh">
-        {/* Search */}
+
         <div className="w-full h-[8%] flex items-center justify-center bg-[#202B3B] rounded-[1vw]">
           <input
             type="text"
@@ -69,7 +67,6 @@ export default function Home() {
           />
         </div>
 
-        {/* Header */}
         <div className="flex items-center justify-between px-10 mt-6">
           <div>
             <div className="text-white font-bold text-5xl">Madrid</div>
@@ -85,7 +82,6 @@ export default function Home() {
           />
         </div>
 
-        {/* Today's Forecast */}
         <div className="w-full h-[30%] flex flex-col p-6 mt-6 bg-[#202B3B] rounded-[2vw]">
           <p className="text-[#8499A2] font-bold text-xl mb-6">
             TODAY'S FORECAST
@@ -115,7 +111,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Air Conditions */}
         <div className="w-full h-[30%] flex flex-col justify-between mt-6 bg-[#202B3B] rounded-[2vw] p-6">
           <div className="flex justify-between items-center">
             <p className="text-[#8499A2] font-bold text-xl">
@@ -150,7 +145,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Right Panel */}
       <div className="w-[40%] h-[calc(100vh-120px)] bg-[#202B3B] rounded-[2vw] mt-20 p-6">
         <p className="text-[#8499A2] font-bold text-xl mb-6">
           7 DAY FORECAST
