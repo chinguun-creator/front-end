@@ -10,7 +10,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     "point": 100,
     "type": "Student",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   },
   {
     "id": 31,
@@ -400,6 +430,7 @@
     "point": 100,
     "type": "Teacher",
     "created_at": "2024-06-01",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg24jr84VMDDAP-CElMsS1T8AgXRoAM8FPw&s",
+    "item": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/612763581/900"
   }
 ]
