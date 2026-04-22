@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import DataJson from "../../utils/data.json";
 
@@ -26,6 +27,13 @@ export default function HomePage() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-6 m-6">
                 {filteredData.map((item) => (
                     <div className="border p-4 w-full bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow" key={item.id}>
+                        {item.image && (
+                            <img 
+                                src={item.image} 
+                                alt={item.first_name} 
+                                className="w-full h-40 object-cover rounded mb-4"
+                            />
+                        )}
                         <div className="flex items-center justify-between mb-2">
                             <h2 className="text-lg font-semibold text-gray-800">{item.first_name}</h2>
                             <span className={`px-3 py-1 rounded-full text-sm font-medium ${item.type === 'Student' ? 'bg-blue-100 text-blue-800' : 'bg-green-100 text-green-800'}`}>
