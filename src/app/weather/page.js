@@ -85,7 +85,7 @@ export default function Home() {
 
           <div className="w-full h-[30%] flex flex-col p-6 mt-6 bg-[#0f1419] rounded-[2vw]">
             <p className="text-[#8499A2] font-bold text-xl mb-6">
-              TODAY'S FORECAST
+              TODAY S FORECAST
             </p>
 
             <div className="flex justify-between text-[#8499A2]">
@@ -104,6 +104,7 @@ export default function Home() {
                   <p>{item.time}</p>
                   <img
                     src="https://cdn-icons-png.freepik.com/512/9744/9744519.png"
+                    alt="t1-chinguun"
                     className="w-16 h-16"
                   />
                   <span>{item.temp}</span>
@@ -170,6 +171,7 @@ export default function Home() {
                 <div className="flex items-center gap-4 w-[50%]">
                   <img
                     src="https://cdn-icons-png.freepik.com/512/9744/9744519.png"
+                    alt="t1-chinguun"
                     className="w-10 h-10"
                   />
                   <p className="text-white">{item.status}</p>
